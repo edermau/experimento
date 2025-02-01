@@ -5,7 +5,10 @@ Este repositório contém os dados de trajetórias coletados durante um experime
 
 ## 📂 Arquivos
 
-- **[Anotações de Origem e Destino](anotacoes_origemdestino_final.html)**: Contém as informações de origem e destino das trajetórias sem o campo `time_diff`.
+- **[Dados da base de Caminhos](anotacoes_origemdestino_final.html)**: Contém as informações de caminhos nas trajetórias.
+- **[Dados da base de Origem e Destino](anotacoes_origemdestino_final.html)**: Contém as informações de origem e destino das trajetórias.
+
+
 
 ## 📝 Descrição dos Dados
 
